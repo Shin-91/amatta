@@ -15,14 +15,14 @@ public class PreferencesActivity extends AppCompatActivity {
     }
 
     public void OnButton1Clicked(View v){   // 알람 설정으로 들어간다.
-
+        // to do
     }
 
     public void OnButton2Clicked(View v){   // 상태 설정으로 들어간다.
-
+        // to do
     }
 
     public void OnButton3Clicked(View v){   // 리스트 화면으로 돌아간다.
-
+        // to do
     }
 }
